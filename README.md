@@ -1,13 +1,13 @@
 # Air-line-on-time-Performance-Reliability-Control-tower-
  Airline Operation Analysis  project
-# ✈️ Airline On-Time Performance & Reliability Control Tower
+#  Airline On-Time Performance & Reliability Control Tower
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes airline operational performance with a focus on departure delays, turnaround efficiency, and delay propagation. Inspired by real-world airline operations, the goal is to build a control tower dashboard that enables proactive decision-making and improves on-time performance.
 
 ---
 
-## 🎯 Objective
+##  Objective
 To identify key drivers of flight delays and develop an interactive analytics solution that helps operations teams:
 - Monitor reliability KPIs  
 - Detect high-risk flights early  
@@ -15,7 +15,7 @@ To identify key drivers of flight delays and develop an interactive analytics so
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 The project uses a synthetic but realistic dataset including:
 
 - Flight operations data (schedule vs actual)
@@ -31,14 +31,14 @@ The project uses a synthetic but realistic dataset including:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Python (Pandas)** – Data cleaning & preprocessing  
 - **Power BI** – Dashboard development & visualization  
 - **DAX** – KPI calculations and business metrics  
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 - Cleaned missing and inconsistent values  
 - Merged multiple datasets (flight, airport, weather)  
 - Converted date/time columns  
@@ -50,7 +50,7 @@ The project uses a synthetic but realistic dataset including:
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 - **D15 Rate** – % of flights delayed more than 15 minutes  
 - **Average Departure Delay**  
 - **Delay Propagation Rate**  
@@ -59,15 +59,15 @@ The project uses a synthetic but realistic dataset including:
 
 ---
 
-## 🔍 Key Insights
-- ✈️ **Inbound delay propagation** is the primary driver of departure delays  
-- ⏰ Delays accumulate throughout the day, peaking in the afternoon  
-- 🏢 Major airports experience higher congestion and delays  
-- 🔁 Turnaround pressure increases later in the day  
+##  Key Insights
+-  **Inbound delay propagation** is the primary driver of departure delays  
+-  Delays accumulate throughout the day, peaking in the afternoon  
+-  Major airports experience higher congestion and delays  
+-  Turnaround pressure increases later in the day  
 
 ---
 
-## 📊 Dashboard Structure
+##  Dashboard Structure
 
 ### 1. Executive Summary
 - KPI overview  
@@ -93,7 +93,7 @@ The project uses a synthetic but realistic dataset including:
 
 ---
 
-## 🚀 Business Recommendations
+##  Business Recommendations
 - Improve inbound delay recovery processes  
 - Monitor and prioritize high-risk flights  
 - Optimize airport ground operations  
@@ -101,7 +101,7 @@ The project uses a synthetic but realistic dataset including:
 
 ---
 
-## 📊 Business Impact
+##  Business Impact
 - Improved on-time performance (D15)  
 - Reduced delay propagation  
 - Better operational efficiency  
@@ -109,7 +109,7 @@ The project uses a synthetic but realistic dataset including:
 
 ---
 
-## ⚠️ Assumptions & Limitations
+##  Assumptions & Limitations
 - Dataset is synthetic and simplified  
 - Real-world constraints (crew, gates) not included  
 - Weather impact partially modeled  
