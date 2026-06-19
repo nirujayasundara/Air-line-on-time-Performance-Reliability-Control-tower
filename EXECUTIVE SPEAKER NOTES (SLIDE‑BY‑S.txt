@@ -1,0 +1,120 @@
+EXECUTIVE SPEAKER NOTES (SLIDE‑BY‑SLIDE)
+
+SLIDE 1 — TITLE
+Airline On‑Time Performance & Reliability Control Tower
+
+
+Today I’ll walk you through how we can improve airline on‑time performance by applying a control‑tower view to operations.
+This project focuses on understanding why delays happen, where they originate, and how operations teams can intervene proactively — not reactively.
+
+ SLIDE 2 — BUSINESS CONTEXT & OBJECTIVE
+Business Problem
+
+
+Airline delays are rarely caused by a single issue. They are typically the result of compounding effects,  late inbound aircraft, congested airports, and tight turnaround windows.
+The challenge for leadership is not a lack of data, but a lack of clear visibility into the true drivers of delay across the network.
+
+The objective of this work was to build a control‑tower view that identifies those drivers and enables earlier, smarter operational decisions to protect departure performance.
+
+
+SLIDE 3 — DATA & ANALYTICAL APPROACH
+Data & Methodology
+
+
+To support this, we integrated flight operations data, airport performance metrics, and weather indicators into a single analytical view.
+The focus was not advanced modelling, but operational clarity , defining the right KPIs, analysing root causes, and translating insights into management‑ready dashboards.
+This ensures the outputs are actionable for operations leadership, not just analytically interesting.
+
+
+ SLIDE 4 — KPI FRAMEWORK
+Operational KPIs
+
+
+We anchored the analysis around four operational KPIs that airline executives already understand and use.
+D15 rate captures customer‑visible punctuality.
+Average departure delay quantifies operational impact.
+Delay propagation shows how much disruption spreads across the network.
+And turnaround overruns highlight ground‑operation pressure points.
+Together, these create a shared language between data teams and operations leaders.
+
+
+SLIDE 5 — KEY FINDING 1
+Inbound Delay Drives Departure Delays
+
+
+One of the clearest findings is the strong relationship between inbound delays and subsequent departure delays.
+This confirms that delays propagate across the network, they are rarely contained at a single flight or airport.
+The implication is important: improving departure performance requires earlier intervention upstream, not just firefighting at the gate.
+
+
+ SLIDE 6 — KEY FINDING 2
+Delays Accumulate Throughout the Day
+
+
+We also see a clear time of day pattern.
+Morning disruptions compound as the day progresses, with the highest delays occurring in the afternoon.
+This means small inefficiencies early in the day have an outsized downstream impact.
+Protecting the first wave of flights is therefore one of the highest leverage actions operations can take.
+
+
+SLIDE 7 — KEY FINDING 3
+Airport Congestion Impacts Performance
+
+
+Performance varies significantly by airport.
+Major hubs consistently experience higher delays due to congestion and operational complexity.
+This tells us that a one size fits all approach will not work.
+Control tower prioritisation should be airport specific, with more aggressive monitoring and buffers at high‑pressure locations.
+
+
+ SLIDE 8 — DECISION OPTIONS & TRADE‑OFFS
+Decision Options
+
+
+Based on these insights, several decision levers are available, but each comes with trade offs.
+Increasing buffer time improves resilience but reduces utilisation.
+Targeting high risk flights delivers focused improvements but requires sustained monitoring capability.
+Improving turnaround efficiency accelerates recovery but demands investment.
+The role of the control tower is to support informed trade offs, not eliminate them.
+
+
+SLIDE 9 — RECOMMENDED ACTION PLAN
+Recommended Actions
+
+
+Bringing this together, we recommend four actions.
+First, actively manage inbound delay propagation rather than accepting it as inevitable.
+Second, prioritise monitoring of flights identified as high risk.
+Third, focus operational improvements at congested airports where returns are highest.
+Finally, rebalance afternoon schedules to absorb compounded disruption.
+These actions directly target the root causes identified, rather than surface‑level symptoms.
+
+
+ SLIDE 10 — BUSINESS IMPACT
+Expected Impact
+
+
+While exact figures would require live operational data, even modest improvements can deliver meaningful impact.
+Higher D15 performance improves customer satisfaction.
+Lower average delays reduce operational costs.
+And improved reliability strengthens network stability.
+The underlying message is that reliability is not just an operational metric  it is a competitive advantage.
+
+
+ SLIDE 11 — RISKS & ASSUMPTIONS
+Risks & Assumptions
+
+
+This analysis is a prototype and comes with assumptions.
+The data used is synthetic, weather impacts are simplified, and real‑time operational constraints were not modelled.
+However, these limitations do not invalidate the insights , they underscore the opportunity once real time data is integrated.
+
+
+SLIDE 12 — NEXT STEPS
+Next Steps
+
+
+The logical next step is to evolve this from a diagnostic dashboard into a live operational tool.
+This includes real time monitoring, predictive delay modelling, and integration of crew and maintenance data.
+At that point, the control tower moves from explaining what happened to actively shaping what happens next.
+
