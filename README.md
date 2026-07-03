@@ -1,6 +1,6 @@
-# Air-line-on-time-Performance-Reliability-Control-tower-
+# Air line on-time Performance Reliability Control-tower-
  Airline Operation Analysis  project
-#  Airline On-Time Performance & Reliability Control Tower
+#  Airline On Time Performance & Reliability Control Tower
 
 ##  Project Overview
 This project analyzes airline operational performance with a focus on departure delays, turnaround efficiency, and delay propagation. Inspired by real-world airline operations, the goal is to build a control tower dashboard that enables proactive decision-making and improves on-time performance.
