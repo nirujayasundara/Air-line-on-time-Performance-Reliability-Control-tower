@@ -117,4 +117,3 @@ The project uses a synthetic but realistic dataset including:
 
 ---
 
-## 📦 Project Structure
